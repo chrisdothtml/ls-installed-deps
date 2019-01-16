@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "foo": "^0.0.0",
+    "bar": "^0.0.0"
+  },
+  "devDependencies": {
+    "qux": "^0.0.0"
+  }
+}
